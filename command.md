@@ -66,6 +66,4 @@ kubectl apply -f my-app-deployment.yaml
 kubectl get deployment my-app -o yaml > my-app-existing.yaml
 ```
 
-Cela vous donnera le fichier YAML de l'objet `my-app`, que vous pouvez ensuite modifier et appliquer.
-
-N’hésitez pas à demander si vous avez besoin de plus de précisions sur l’un de ces points ou d’autres objets !
+Cela vous donnera le fichier YAML de l'objet `my-app`
